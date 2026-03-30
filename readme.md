@@ -26,7 +26,7 @@ Using these inputs, the trained machine learning model predicts the **best crop 
 - Includes **season-based crop prediction**.
 - Uses **Random Forest Classifier** for final prediction.
 - Model is saved using **Pickle** for deployment.
-- Can be integrated into a **web application using Flask API**.
+
 
 ---
 
@@ -210,8 +210,3 @@ These files are used in the web application backend.
 ---
 
 
----
-
-# 📜 License
-
-This project is intended for **educational and research purposes**.
